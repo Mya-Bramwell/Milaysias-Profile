@@ -1,0 +1,81 @@
+.lay {
+    font-family: 'BioRhyme', serif;
+    color: #cc99ff;
+    text-align: center;
+}
+
+.college {
+    background-color: #9400D3;
+    text-align: center;
+}
+
+.about {
+    font-family: 'Lato', sans-serif;
+    color:#FF00FF;
+    text-align: center;
+}
+
+.junior {
+    color: #008080;
+}
+
+.purple {
+    color: purple;
+}
+
+img {
+    width: 120px;
+}
+
+.hobbies {
+    color: #301934;
+    font-family: 'Lato', sans-serif;
+}
+
+.vd {
+    width: 210px;
+}
+
+.tiktok {
+    width: 160px;
+}
+
+.body {
+    background-color: lavender;
+    background:url(https://img1.wsimg.com/isteam/ip/15ce9149-e51d-40b1-8a89-91aa7e57cf1b/97cd6806-d7ff-49ca-9f72-04fbb637b3c2.jpg); 
+}
+
+.shows {
+    color: #FF00FF;
+    font-family: 'Lato', sans-serif;
+}
+
+.og {
+    width: 210px;
+}
+
+.music {
+    font-family: 'Lato', sans-serif;
+    color: #FF00FF;
+    text-align: center;
+    background-color: #9400D3;
+}
+
+.rip {
+    width: 200px;
+}
+
+.boogie {
+    width: 180px;
+}
+
+.patd {
+    width: 250px;
+}
+
+.imposter {
+    width: 200px;
+}
+.mk { 
+    width:200px;    
+}
